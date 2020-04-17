@@ -99,7 +99,7 @@ a:hover {
 	width: 100%;
 	font-weight: 700;
 	font-size: 0.85em;
-	color: #5C5EDC;
+	color: #32124f;
 	position: relative;
 	z-index: 100;
 	display: block;
@@ -181,7 +181,7 @@ a:hover {
 	font-variant: normal;
 	text-align: center;
 	text-transform: none;
-	color: #05DDFA;
+	color: #9B9B9B;
 	speak: none;
 	-webkit-font-smoothing: antialiased;
 }
